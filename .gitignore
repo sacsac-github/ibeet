@@ -88,3 +88,6 @@ sw.*
 
 # Vim swap files
 *.swp
+
+# .github
+.github/workflows/build.yml
