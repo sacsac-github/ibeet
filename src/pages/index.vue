@@ -14,7 +14,7 @@
             </v-carousel> -->
 
             <h1 class="text-left pt-4">
-                {{ $t("top.latest_articles") }}一覧 devdev
+                {{ $t("top.latest_articles") }}一覧 devdevdev
             </h1>
             <TopicsHomelist :topics="topics" />
             <div class="text-center py-5 mt-4 white--text">
